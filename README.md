@@ -16,3 +16,13 @@ A simple movie recommendation system built with Python and Flask. This project u
    ```bash
    git clone https://github.com/ShaniZiger/movie_recommender.git
    cd movie_recommender
+2. Install the dependencies:
+   http://127.0.0.1:5000/
+
+Running the Project:
+1. Start the Flask server:
+   python app.py
+2. Open your browser and go to:
+   http://127.0.0.1:5000/
+ 
+3.Select a movie from the dropdown list and get recommendations!
