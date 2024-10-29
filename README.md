@@ -17,7 +17,7 @@ A simple movie recommendation system built with Python and Flask. This project u
    git clone https://github.com/ShaniZiger/movie_recommender.git
    cd movie_recommender
 2. Install the dependencies:
-   http://127.0.0.1:5000/
+   pip install pandas flask scikit-learn
 
 Running the Project:
 1. Start the Flask server:
