@@ -25,4 +25,4 @@ Running the Project:
 2. Open your browser and go to:
    http://127.0.0.1:5000/
  
-3.Select a movie from the dropdown list and get recommendations!
+3. Select a movie from the dropdown list and get recommendations!
